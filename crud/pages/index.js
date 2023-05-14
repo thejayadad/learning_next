@@ -18,7 +18,7 @@ export default function Home() {
         <header>
           <nav className='flex justify-center mt-3'>
             <Link href="/" className='p-2 bg-amber-600 mr-3 w-32 text-center rounded-md'>Home</Link>
-            <Link href="/create" className='p-2 bg-amber-600 w-32 text-center rounded-md'>New Note</Link>
+            <Link href="/createnote" className='p-2 bg-amber-600 w-32 text-center rounded-md'>New Note</Link>
           </nav>
         </header>
       <section className='max-w-full bg-neutral-900 p-4 mt-4 h-full rounded-md'>
